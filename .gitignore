@@ -8,4 +8,4 @@ env.py
 env_linkedin.py
 core/migrations/*
 credentials
-serverless.env.yml
+env.yml

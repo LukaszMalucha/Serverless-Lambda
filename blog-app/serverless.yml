@@ -14,7 +14,7 @@ provider:
         - dynamodb:PutItem
         - dynamodb:UpdateItem
         - dynamodb:DeleteItem
-      Resource: ${file(serverless.env.yml):dev.ARN_VAR}
+      Resource: ${file(env.yml):dev.ARN_VAR}
 
 # you can add statements to the Lambda function's IAM Role here
 #  iamRoleStatements:
