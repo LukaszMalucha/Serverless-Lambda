@@ -1,4 +1,4 @@
-### SERVERLESS
+##### SERVERLESS
 
 npm install -g serverless
 
@@ -11,5 +11,12 @@ serverless deploy
 
 sls invoke -f hello
 
-// LOCAL
+##### LOCAL
 sls invoke local -f hello
+
+
+##### RETRIEVE LOGS
+
+sls logs -f hello
+
+##### RETRIEVE ENDPOINT
