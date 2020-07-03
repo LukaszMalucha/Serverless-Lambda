@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a679b5e-5927-417a-9ff9-a04d5ce6635c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/articles/create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/six.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/blog-app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/create.js" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/create.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/delete.js" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/delete.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/event.create.json" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/event.create.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/event.delete.json" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/event.delete.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/event.json" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/event.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/event.read.json" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/event.read.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/event.update.json" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/event.update.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/model.js" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/read.js" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/read.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/readAll.js" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/readAll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/update.js" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/update.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/blog-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/blog-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/blog-app/serverless.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/serverless.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/blog-app/util/dynamo-dao.js" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/util/dynamo-dao.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/event.json" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/event.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/handler.js" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/handler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/serverless.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/serverless.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e5dAdDzaHARrGHsK7y9wrrUe8K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Workshop\Lambda" />
+      <recent name="C:\Workshop\Lambda\blog-app\articles" />
+      <recent name="C:\Workshop\Lambda\blog-app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workshop\Lambda\articles" />
+      <recent name="C:\Workshop\Lambda" />
+      <recent name="C:\Workshop\Lambda\javascript" />
+      <recent name="C:\Workshop\Lambda\java" />
+      <recent name="C:\Workshop\Lambda\blog-app\articles" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a679b5e-5927-417a-9ff9-a04d5ce6635c" name="Default Changelist" comment="" />
+      <created>1593615245233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593615245233</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,71 @@
+
+
+service: pyblog
+
+provider:
+  name: aws
+  runtime: python3.7
+  stage: dev
+  region: eu-west-1
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - dynamodb:Query
+        - dynamodb:GetItem
+        - dynamodb:PutItem
+        - dynamodb:UpdateItem
+        - dynamodb:DeleteItem
+      Resource: ${file(env.yml):dev.ARN_VAR}
+
+functions:
+  createArticle:
+    handler: articles/create.handler
+    events:
+      - http:
+          path: articles
+          method: post
+          cors: true
+  readOneArticle:
+    handler: articles/read.handler
+    events:
+      - http:
+          path: articles/{id}
+          method: get
+          cors: true
+  updateArticle:
+    handler: articles/update.handler
+    events:
+      - http:
+          path: articles
+          method: put
+          cors: true
+  deleteArticle:
+    handler: articles/delete.handler
+    events:
+      - http:
+          path: articles
+          method: delete
+          cors: true
+  readAllArticles:
+    handler: articles/readAll.handler
+    events:
+      - http:
+          path: articles
+          method: get
+          cors: true
+
+resources:
+  Resources:
+    BlogTable:
+      Type: AWS::DynamoDB::Table
+      Properties:
+        TableName: PyBlogTable
+        AttributeDefinitions:
+          - AttributeName: article_id
+            AttributeType: S
+        KeySchema:
+          - AttributeName: article_id
+            KeyType: HASH
+        ProvisionedThroughput:
+          ReadCapacityUnits: 1
+          WriteCapacityUnits: 1

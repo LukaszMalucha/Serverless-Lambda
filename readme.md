@@ -1,4 +1,4 @@
-##### SERVERLESS JS
+##### SERVERLESS
 
 npm install -g serverless
 

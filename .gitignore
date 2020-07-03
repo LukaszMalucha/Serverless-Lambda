@@ -1,11 +1,21 @@
-node_modules
-jspm_packages
+# Distribution / packaging
+.Python
+*.pyc
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Serverless directories
 .serverless
-venv/
-venv2/
-.idea/
-env.py
-env_linkedin.py
-core/migrations/*
-credentials
-env.yml
