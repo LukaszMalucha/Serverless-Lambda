@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a679b5e-5927-417a-9ff9-a04d5ce6635c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/articles/create.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/articles/delete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/articles/read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/articles/update.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/blog-app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/create.js" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/create.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/delete.js" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/delete.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/event.create.json" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/event.create.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/event.delete.json" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/event.delete.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/event.json" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/event.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/event.read.json" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/event.read.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/event.update.json" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/event.update.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/model.js" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/model.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/read.js" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/read.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/readAll.js" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/readAll.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/blog-app/articles/update.js" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/articles/update.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/blog-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/blog-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/blog-app/serverless.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/serverless.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/blog-app/util/dynamo-dao.js" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/blog-app/util/dynamo-dao.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/event.json" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/event.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/handler.js" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/handler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/serverless.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/serverless.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +25,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
